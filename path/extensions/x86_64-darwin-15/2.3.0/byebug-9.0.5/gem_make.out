@@ -1,0 +1,19 @@
+current directory: /Users/charles/Documents/michael_hartl/sample_app/sample_app/path/gems/byebug-9.0.5/ext/byebug
+/Users/charles/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160823-45016-1nawlp7.rb extconf.rb
+creating Makefile
+
+current directory: /Users/charles/Documents/michael_hartl/sample_app/sample_app/path/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/charles/Documents/michael_hartl/sample_app/sample_app/path/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/charles/Documents/michael_hartl/sample_app/sample_app/path/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20160823-45016-1jk16me/byebug
