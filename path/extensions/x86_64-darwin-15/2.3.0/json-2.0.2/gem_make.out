@@ -1,0 +1,13 @@
+current directory: /Users/charles/Documents/michael_hartl/sample_app/sample_app/path/gems/json-2.0.2/ext/json
+/Users/charles/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160908-26711-alfacu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/charles/Documents/michael_hartl/sample_app/sample_app/path/gems/json-2.0.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/charles/Documents/michael_hartl/sample_app/sample_app/path/gems/json-2.0.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/charles/Documents/michael_hartl/sample_app/sample_app/path/gems/json-2.0.2/ext/json
+make "DESTDIR=" install
